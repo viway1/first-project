@@ -1,4 +1,4 @@
-[Ссылка на описание создание диаграмм](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)  
+[Ссылка на описание создание диаграмм](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/ "Кликни по ссылке, для перехода на сайт с описанием диаграмм")  
 
 ```mermaid
   sequenceDiagram
