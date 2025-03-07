@@ -1,3 +1,5 @@
+[Ссылка на описание создание диаграмм](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/)  
+
 ```mermaid
   sequenceDiagram
     participant 1колонка
@@ -17,4 +19,4 @@
     untracked-неотслеживаемый-->git-add-->staged-в-списке-на-коммит+tracked;
     modified-измененный-->git_add-->staged-в-списке-на-коммит+tracked-->git_commit-->tracked-отслеживаемый-->Изменения-->modified-измененный;
     staged-в-списке-на-коммит+tracked-->изменения-->modified-измененный;
-```
+``
