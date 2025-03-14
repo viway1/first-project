@@ -314,3 +314,4 @@ git push --force-with-lease -  проверяет, что в удалённом 
 git push --set-upstream origin HEAD - --set-upstream — это полная версия -u- связать локальную ветку с удалённой, HEAD - это синоним текущей ветки
 
 
+111
